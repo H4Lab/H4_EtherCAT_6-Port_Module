@@ -4,7 +4,7 @@ This project is  is licensed under the BSD 3-Clause "New" or "Revised" License.
 H4 EtherCAT 6-port Module using Microchip LAN9254
 ===
 # Overview
-
+This board is
   
 
 ![alt text](Doc_Images/ESNACKS_TOP.png "EtherSNACKS Rev 1.2 PCB Top")
