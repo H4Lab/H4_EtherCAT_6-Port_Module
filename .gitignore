@@ -1,3 +1,4 @@
 
 *.SchDocPreview
 *.Zip
+/README.md.txt
