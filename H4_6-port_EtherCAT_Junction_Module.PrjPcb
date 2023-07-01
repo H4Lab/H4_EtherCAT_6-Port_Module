@@ -2333,10 +2333,6 @@ Net131=NetName=VDD33TXRX2_A|NetColor=$00515B0C
 Net132=NetName=VDD33TXRX2_B|NetColor=$00515B0C
 Net133=NetName=VDD33TXRX2_C|NetColor=$00515B0C
 Net134=NetName=VDD33TXRX2_D|NetColor=$00515B0C
-Net135=NetName=VDDCR_A|NetColor=$0000BE00
-Net136=NetName=VDDCR_B|NetColor=$0000BE00
-Net137=NetName=VDDCR_C|NetColor=$0000BE00
-Net138=NetName=VDDCR_D|NetColor=$0000BE00
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
