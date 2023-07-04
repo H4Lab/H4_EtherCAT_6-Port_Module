@@ -473,6 +473,30 @@ ParamVariationCount=0
 DocumentPath=Project Outputs for H4_6-port_EtherCAT_Junction_Module\Design Rule Check - H4_6-port_EtherCAT_Junction_Module.html
 DItemRevisionGUID=
 
+[Parameter1]
+Name=Project_Title
+Value=H4 6-port EthercAT Junction Module
+
+[Parameter2]
+Name=Project_Revision
+Value=1.0
+
+[Parameter3]
+Name=Project_Date
+Value=04/07/2023
+
+[Parameter4]
+Name=Project_Author_Checked
+Value=Alexis M.
+
+[Parameter5]
+Name=Project_Author
+Value=Chandra U.
+
+[Parameter6]
+Name=PCB_Name
+Value=H4_6port_Junction_Module
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
