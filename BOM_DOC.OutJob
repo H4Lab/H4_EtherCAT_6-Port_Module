@@ -17,7 +17,7 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=BOM_DOC.OutJob
 Description=
-TargetOutputMedium=PROJECT_SCG_PCB_DOC
+TargetOutputMedium=PDF
 VariantName=REV1.0
 VariantScope=1
 CurrentConfigurationName=
@@ -59,7 +59,7 @@ OutputEnabled1_OutputMedium7=0
 OutputEnabled1_OutputMedium8=0
 OutputEnabled1_OutputMedium9=1
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.68|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PrintScaleName=PrintFitPageWidth|PaperKind=A4|PaperIndex=9
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PrintScaleName=PrintFitPageWidth|PaperKind=Letter|PaperIndex=1
 Configuration1_Name1=OutputConfigurationParameter1
 Configuration1_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=False|ShowProbe=False|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=True|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=True|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=[Project Physical Documents]
 OutputType2=BOM_PartType
@@ -118,7 +118,7 @@ OutputName4=PCB Prints
 OutputCategory4=Documentation
 OutputDocumentPath4=
 OutputVariantName4=
-OutputEnabled4=1
+OutputEnabled4=0
 OutputEnabled4_OutputMedium1=0
 OutputEnabled4_OutputMedium2=0
 OutputEnabled4_OutputMedium3=0
@@ -206,7 +206,7 @@ OutputName5=TOP PCB 3D Print
 OutputCategory5=Documentation
 OutputDocumentPath5=H4_6-port_EtherCAT_Junction_Module.PcbDoc
 OutputVariantName5=
-OutputEnabled5=1
+OutputEnabled5=0
 OutputEnabled5_OutputMedium1=0
 OutputEnabled5_OutputMedium2=0
 OutputEnabled5_OutputMedium3=0
@@ -461,7 +461,7 @@ OutputName7=Draftsman
 OutputCategory7=Documentation
 OutputDocumentPath7=H4_Stackup.PCBDwf
 OutputVariantName7=
-OutputEnabled7=1
+OutputEnabled7=0
 OutputEnabled7_OutputMedium1=0
 OutputEnabled7_OutputMedium2=0
 OutputEnabled7_OutputMedium3=0
@@ -478,7 +478,7 @@ OutputName8=Copy of Draftsman
 OutputCategory8=Documentation
 OutputDocumentPath8=BoardAssemblyView.PCBDwf
 OutputVariantName8=
-OutputEnabled8=1
+OutputEnabled8=0
 OutputEnabled8_OutputMedium1=0
 OutputEnabled8_OutputMedium2=0
 OutputEnabled8_OutputMedium3=0
@@ -1498,7 +1498,7 @@ Configuration11_Name1=OutputConfigurationParameter1
 Configuration11_Item1=Record=Pcb3DVideoRenderer|ShowFloorShadow=True|ViewConfigType=.config_3d|ViewConfig=RECORD\3Board\2CFGALL.CONFIGURATIONKIND\33\2CFGALL.CONFIGURATIONDESC\3Enter%20description%20of%20new%20view%20configuration\2CFGALL.COMPONENTBODYREFPOINTCOLOR\316777215\2CFGALL.COMPONENTBODYSNAPPOINTCOLOR\316777215\2CFGALL.SHOWCOMPONENTSNAPMARKERS\3FALSE\2CFGALL.SHOWCOMPONENTSNAPREFERENCE\3FALSE\2CFGALL.SHOWCOMPONENTSNAPCUSTOM\3FALSE\2CFG3D.POSITIVETOPSOLDERMASK\3TRUE\2CFG3D.POSITIVEBOTTOMSOLDERMASK\3TRUE\2CFG3D.SHOWCOMPONENTBODIES\3TRUE\2CFG3D.SHOWCOMPONENTSTEPMODELS\3TRUE\2CFG3D.COMPONENTMODELPREFERENCE\30\2CFG3D.SHOWCOMPONENTAXES\3TRUE\2CFG3D.SHOWBOARDCORE\3TRUE\2CFG3D.SHOWBOARDPREPREG\3TRUE\2CFG3D.SHOWTOPSILKSCREEN\3TRUE\2CFG3D.SHOWBOTSILKSCREEN\3TRUE\2CFG3D.SHOWORIGINMARKER\3TRUE\2CFG3D.EYEDIST\32000\2CFG3D.SHOWCUTOUTS\3TRUE\2CFG3D.SHOWROUTETOOLPATH\3TRUE\2CFG3D.SHOWROOMS3D\3FALSE\2CFG3D.USESYSCOLORSFOR3D\3FALSE\2CFG3D.WORKSPACECOLOR\316777215\2CFG3D.BOARDCORECOLOR\30\2CFG3D.BOARDPREPREGCOLOR\30\2CFG3D.TOPSOLDERMASKCOLOR\314461039\2CFG3D.BOTSOLDERMASKCOLOR\314461039\2CFG3D.COPPERCOLOR\32402753\2CFG3D.TOPSILKSCREENCOLOR\316448250\2CFG3D.BOTSILKSCREENCOLOR\316448250\2CFG3D.WORKSPACELUMINANCEVARIATION\330\2CFG3D.WORKSPACEBEGINCOLOR\316777215\2CFG3D.WORKSPACEENDCOLOR\314671839\2CFG3D.WORKSPACECOLOROPACITY\31.000000\2CFG3D.BOARDCORECOLOROPACITY\30.500000\2CFG3D.BOARDPREPREGCOLOROPACITY\30.500000\2CFG3D.TOPSOLDERMASKCOLOROPACITY\30.600000\2CFG3D.BOTSOLDERMASKCOLOROPACITY\30.600000\2CFG3D.COPPERCOLOROPACITY\31.000000\2CFG3D.TOPSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOTSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOARDTHICKNESSSCALING\31.000000\2CFG3D.SHOWMECHANICALLAYERS\3FALSE\2CFG3D.MECHANICALLAYERSOPACITY\31.000000\2CFG3D.MECHCOVERLAYERUPDATED\3FALSE|CurrentPCB3DVideoID=0|DocumentPath=C:\Users\amaslyczyk\Documents\general-use-boards\PCB_LAN9254\LAN9254_Ethercat_PCB\LAN9254_EtherCAT.PcbDoc
 
 [PublishSettings]
-OutputFilePath2=C:\Users\alex9\Documents\H4\Designs\H4_EtherCAT_6-Port_Module\H4_EtherCAT_6-Port_Module\Outputs\REV1.0_08122022\
+OutputFilePath2=C:\Users\alex9\Documents\H4\Designs\H4_EtherCAT_6-Port_Module\H4_EtherCAT_6-Port_Module\Outputs\REV1.0\
 ReleaseManaged2=0
 OutputBasePath2=Outputs\
 OutputPathMedia2=REV1.0
@@ -1525,7 +1525,7 @@ ShowComponentParameters2=1
 GlobalBookmarks2=1
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=C:\Users\alex9\Documents\H4\Designs\H4_EtherCAT_6-Port_Module\H4_EtherCAT_6-Port_Module\Outputs\REV1.0_08122022\
+OutputFilePath3=C:\Users\alex9\Documents\H4\Designs\H4_EtherCAT_6-Port_Module\H4_EtherCAT_6-Port_Module\Outputs\REV1.0\
 ReleaseManaged3=0
 OutputBasePath3=Outputs\
 OutputPathMedia3=REV1.0
@@ -1698,9 +1698,9 @@ PDFACompliance9=Disabled
 PDFVersion9=Default
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\alex9\Documents\H4\Designs\H4_EtherCAT_6-Port_Module\H4_EtherCAT_6-Port_Module\Outputs\REV1.0_08122022\
+RelativeOutputPath2=C:\Users\alex9\Documents\H4\Designs\H4_EtherCAT_6-Port_Module\H4_EtherCAT_6-Port_Module\Outputs\REV1.0\
 OpenOutputs2=1
-RelativeOutputPath3=C:\Users\alex9\Documents\H4\Designs\H4_EtherCAT_6-Port_Module\H4_EtherCAT_6-Port_Module\Outputs\REV1.0_08122022\
+RelativeOutputPath3=C:\Users\alex9\Documents\H4\Designs\H4_EtherCAT_6-Port_Module\H4_EtherCAT_6-Port_Module\Outputs\REV1.0\
 OpenOutputs3=1
 AddToProject3=1
 TimestampFolder3=0

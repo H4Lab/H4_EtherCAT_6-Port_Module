@@ -538,10 +538,14 @@ Variation157=Designator=R273|UniqueId=\APJAULJE\ATZIKEUS|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for H4_6-port_EtherCAT_Junction_Module\Design Rule Check - H4_6-port_EtherCAT_Junction_Module.html
+DocumentPath=Outputs\REV1.0\BOM\Bill of Materials-H4_6-port_EtherCAT_Junction_Module(Rev1.0).xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
+DocumentPath=Project Outputs for H4_6-port_EtherCAT_Junction_Module\Design Rule Check - H4_6-port_EtherCAT_Junction_Module.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
 DocumentPath=H4_6-port_EtherCAT_Junction_Module 2023-07-04 11-34-15 AM.WAS
 DItemRevisionGUID=
 

@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 1:13:43 PM On 2023-07-04
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [REV1.0] of Project [H4_6-port_EtherCAT_Junction_Module.PrjPcb]
+   Generated File[Bill of Materials-H4_6-port_EtherCAT_Junction_Module(Rev1.0).xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 1:13:47 PM On 2023-07-04
