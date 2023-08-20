@@ -4,8 +4,8 @@ This project is  is licensed under the BSD 3-Clause "New" or "Revised" License.
 H4 EtherCAT 6-port Module using Microchip LAN9254
 ===
 # Overview
-The EtherCAT switch enables communication between six multiple EtherCAT devices in a network. The design integrates four LAN9254 chips capable of supporting 100Mbps (100BASE-TX) operation.
-It can serve as a central point in a star topology or branch topology.
+The H4 6-port EtherCAT junction enables communication between six multiple EtherCAT devices in a network. The design integrates four LAN9254 chips capable of supporting 100Mbps (100BASE-TX) operation.
+It can serve as a central point in a daisy chain topology or branch topology.
 With its small form factor (60x85mm), the board is designed for seamless integration into robotic solutions.
 This board was specifically designed for embedded robotic applications, with the primary goal of replacing commonly available off-the-shelf modules that tend to be bulky, such as the BECKHOFF EP6228 or the OMRON GX-JC03 / JC06.  
 
