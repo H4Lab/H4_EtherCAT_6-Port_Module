@@ -13,7 +13,7 @@ This board was specifically designed for embedded robotic applications, with the
 
 
 ### Hardware release (production files)
-* Rev 1.0 Initial version 
+* Rev 1.0 Initial version (20 August 2023)
 
 
 ### Features
