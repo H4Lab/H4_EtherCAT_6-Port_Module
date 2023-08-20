@@ -7,8 +7,8 @@ H4 EtherCAT 6-port Module using Microchip LAN9254
 This board is
   
 
-![alt text](Doc_Images/ESNACKS_TOP.png "EtherSNACKS Rev 1.2 PCB Top")
-![alt text](Doc_Images/20220712_FrontBoard.jpg "EtherSNACKS on a daughter board")
+![alt text](Documentation/Images/Render_EcatSwitch_tr.png "EtherCAT Switch Rev 1.1 PCB Render")
+
 
 ### Hardware release (production files)
 * Rev 1.0 Initial version 
