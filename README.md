@@ -38,10 +38,45 @@ This board was specifically designed for embedded robotic applications, with the
 Each board has its own folder containing the source files (schematic and layout on Altium), output files (gerber, BOM and pick and place for manufacturing), documents (schematic and layout in PDF files), images, configuration files for etherCAT etc.
 
 
-### Testing
+### Board Assembly
 Board Rev 1.0 assembled:
 ![alt text](Documentation/Images/4.jpeg "Board assembled")
-
-The fully was fully tested and worked as expected.
 ![alt text](Documentation/Images/2.jpg "Board assembled")
-![alt text](Documentation/Images/3.jpg "Board assembled")
+
+### Software Configuration
+The board was fully tested and worked as expected. 
+The first step is to flash all the LAN EEPROM with the right configuration.
+You can follow the steps provided by Microchip:
+https://ww1.microchip.com/downloads/aemDocuments/documents/UNG/ProductDocuments/SupportingCollateral/6-Port-EtherCAT-Coupler-EVB-LAN9254-DIGIO-50003263.pdf
+
+##SCANNING THE ETHERCAT DEVICE
+1. Connect the boards and power on the boards.
+2. Connect the Port 0 (Board 1) to the PC running TwinCAT using the Ethernet cable.
+3. Download the configuration file (ESI) from the product page and copy the LAN9254-EtherCAT-Junction-Box configuration file to TwinCAT directory TwinCAT\3.1\Config\Io\EtherCAT.
+4. Once the new project is created, in the Project Solution pane, expand the I/O section and right-click Devices. Click Scan to scan the EVBs.
+5. After scanning the device, the dialog box may appear. Click OK in the dialog box if it appears.
+6. Check if the window appears with your Device check box ticked. This is an indication that the Ethernet cable is properly connected to the board and the PC. Click OK.
+7. Click Yes when prompted with “Scan for boxes” in a dialog box
+8. The Activate Free Run dialog box appears. Click Yes to Activate Free Run.
+9. In the Solution Explorer pane, find and click your Device (EtherCAT). The TwinCAT Test_EtherCAT Coupler tab appears. Four boxes should be present in the Online tab, as there are four ESCs. The ESCs are not in “OP” state because the EEPROM has to be updated with the respective configuration file.
+10. Select and right click Box 1 (ESC 1). Click EEPROM Update and then OK toload the new configuration into the EEPROM.
+11. In the Write EEPROM dialog box, the LAN9254-EtherCAT-Junction-Box configuration file can be found.
+Note: Make sure step 3 is completed, otherwise the configuration file cannot be found.
+12. Select the Show Hidden Devices check box in the Write EEPROM dialog box. As Box 1 (ESC 1) is selected in step 10, select Microchip-LAN9254- EtherCAT-Junction-Box, and click OK.
+![alt text](Documentation/Images/configBoxes.png "EEPROM Config Boxes")
+13. Repeat steps 10 to 12 for Devices 2, 3, and 4 but selecting the following:
+Device 2 Box 2 (ESC 2) Microchip-LAN9254-EtherCAT-Junction-Box-Dev-B
+Device 3 Box 3 (ESC 3) Microchip-LAN9254-EtherCAT-Junction-Box-Dev-C
+Device 4 Box 4 (ESC 4) Microchip-LAN9254-EtherCAT-Junction-Box-Dev-D
+14. After loading all the EEPROMs with respective configuration files, rescan the device. Right-click Device 3 (EtherCAT) and click Scan.
+15. Once the above steps are done correctly, all the devices states should read as “OP”.
+![alt text](Documentation/Images/Config4Boxes.png "OP")
+
+### EtherCAT Slave testing
+1. Connect one EtherCAT slave to one port of the boards and power on the boards.
+2. After scanning the device, the dialog box may appear. Click OK in the dialog box if it appears.
+3. The Activate Free Run dialog box appears. Click Yes to Activate Free Run.
+4. You should now see you EtherCAT slave connected:
+![alt text](Documentation/Images/Slave.png "EtherCAT Slave")
+
+![alt text](Documentation/Images/3.jpg "Multi EtherCAT slaves connected")
