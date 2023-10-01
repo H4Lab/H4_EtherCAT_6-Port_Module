@@ -41,8 +41,8 @@ Each board has its own folder containing the source files (schematic and layout 
 
 ### Board Assembly
 Board Rev 1.0 assembled:
-![alt text](Documentation/Images/4.jpeg "Board assembled")
-![alt text](Documentation/Images/2.jpg "Board assembled")
+![alt text](Documentation/Images/Asm.jpg "Board assembled")
+
 
 ### Software Configuration
 The board was fully tested and worked as expected. 
