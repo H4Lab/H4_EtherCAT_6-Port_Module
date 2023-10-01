@@ -40,4 +40,4 @@ Each board has its own folder containing the source files (schematic and layout 
 
 ### Testing
 Board Rev 1.0 assembled:
-![alt text](Documentation/Images/1.jpg "Board assemble")
+![alt text](Documentation/Images/4.jpg "Board assemble")
