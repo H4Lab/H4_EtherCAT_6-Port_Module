@@ -83,9 +83,9 @@ The board underwent comprehensive testing and functioned as anticipated within t
 ![alt text](Documentation/Images/3.jpg "Multi EtherCAT slaves connected")
 
 NOTE: We don't have the setup and equipment to test the ESD protections. We selected the transient protection diode for Ethernet with the parameters listed:
-i) Working voltage at least to be 3.3V.
-ii) Clamping voltage at 1A Ipp parameter has to be within absolute maximum voltage rating limit (5V)
-iii) Capacitance parameter to be < 5pF loading.
-iv) Leakage current to be < 1 μA.
+* Working voltage at least to be 3.3V.
+* Clamping voltage at 1A Ipp parameter has to be within absolute maximum voltage rating limit (5V)
+* Capacitance parameter to be < 5pF loading.
+* Leakage current to be < 1 μA.
 For more detailed information please refer the following Transient protection App note in the below link
 http://ww1.microchip.com/downloads/en/AppNotes/00002157B.pdf
