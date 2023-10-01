@@ -45,12 +45,11 @@ Board Rev 1.0 assembled:
 
 
 ### Software Configuration
-The board was fully tested and worked as expected. 
 The first step is to flash all the LAN EEPROM with the right configuration.
 You can follow the steps provided by Microchip:
 https://ww1.microchip.com/downloads/aemDocuments/documents/UNG/ProductDocuments/SupportingCollateral/6-Port-EtherCAT-Coupler-EVB-LAN9254-DIGIO-50003263.pdf
 
-##SCANNING THE ETHERCAT DEVICE
+ETHERCAT DEVICE
 1. Connect the boards and power on the boards.
 2. Connect the Port 0 (Board 1) to the PC running TwinCAT using the Ethernet cable.
 3. Download the configuration file (ESI) from the product page and copy the LAN9254-EtherCAT-Junction-Box configuration file to TwinCAT directory TwinCAT\3.1\Config\Io\EtherCAT.
@@ -80,4 +79,5 @@ Device 4 Box 4 (ESC 4) Microchip-LAN9254-EtherCAT-Junction-Box-Dev-D
 4. You should now see you EtherCAT slave connected:
 ![alt text](Documentation/Images/Slave.png "EtherCAT Slave")
 
+The board underwent comprehensive testing and functioned as anticipated within the specified wide input voltage range. All EtherCAT ports were individually tested with a variety of EtherCAT slaves, including the TI F28388, LAN9252, and Beckhoff ET1100, among others.
 ![alt text](Documentation/Images/3.jpg "Multi EtherCAT slaves connected")
