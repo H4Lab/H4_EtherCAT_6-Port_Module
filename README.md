@@ -76,8 +76,16 @@ Device 4 Box 4 (ESC 4) Microchip-LAN9254-EtherCAT-Junction-Box-Dev-D
 1. Connect one EtherCAT slave to one port of the boards and power on the boards.
 2. After scanning the device, the dialog box may appear. Click OK in the dialog box if it appears.
 3. The Activate Free Run dialog box appears. Click Yes to Activate Free Run.
-4. You should now see you EtherCAT slave connected:
+4. You should now see your EtherCAT slave connected:
 ![alt text](Documentation/Images/Slave.png "EtherCAT Slave")
 
 The board underwent comprehensive testing and functioned as anticipated within the specified wide input voltage range. All EtherCAT ports were individually tested with a variety of EtherCAT slaves, including the TI F28388, LAN9252, and Beckhoff ET1100, among others.
 ![alt text](Documentation/Images/3.jpg "Multi EtherCAT slaves connected")
+
+NOTE: We don't have the setup and equipment to test the ESD protections. We selected the transient protection diode for Ethernet with the parameters listed:
+i) Working voltage at least to be 3.3V.
+ii) Clamping voltage at 1A Ipp parameter has to be within absolute maximum voltage rating limit (5V)
+iii) Capacitance parameter to be < 5pF loading.
+iv) Leakage current to be < 1 μA.
+For more detailed information please refer the following Transient protection App note in the below link
+http://ww1.microchip.com/downloads/en/AppNotes/00002157B.pdf
