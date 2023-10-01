@@ -32,11 +32,12 @@ This board was specifically designed for embedded robotic applications, with the
 * 60mm x 85mm (2.36" X 3.35")
 * Height≈9.1mm
 
-![alt text](Documentation/Images/Board_dim.png "H4 ECAT Switch Dimensions")
+![alt text](Doc_Images/ESNACKS_DIM.png "EtherSNACKS Rev 1.2 Dimensions")
 
 ### Files
 Each board has its own folder containing the source files (schematic and layout on Altium), output files (gerber, BOM and pick and place for manufacturing), documents (schematic and layout in PDF files), images, configuration files for etherCAT etc.
 
 
 ### Testing
-To be continued (20/08/2023)
+Board Rev 1.0 assembled:
+![alt text](Documentation/Images/1.jpg "Board assemble")
