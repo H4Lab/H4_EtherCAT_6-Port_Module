@@ -14,7 +14,7 @@ This board was specifically designed for embedded robotic applications, with the
 
 ### Hardware release (production files)
 * Rev 1.0 Initial version (20 August 2023)
-
+* Rev 1.1 Ethernet ESD protection (TVS) added (15 September 2023)
 
 ### Features
 * Up to 6 EtherCAT ports (JST-GH connector)
