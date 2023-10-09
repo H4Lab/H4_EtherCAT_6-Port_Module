@@ -40,7 +40,7 @@ Each board has its own folder containing the source files (schematic and layout 
 
 
 ### Board Assembly
-Board Rev 1.0 assembled:
+Board Rev 1.1 assembled:
 ![alt text](Documentation/Images/Asm.jpg "Board assembled")
 
 
