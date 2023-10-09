@@ -43,7 +43,6 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
-CurrentVariant=Rev1.0
 
 [Preferences]
 PrefsVaultGUID=
@@ -372,169 +371,175 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document20]
+DocumentPath=Outputs\REV1.1\Gerber\CAMtastic1.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=3235677C-1459-4FDD-B8BF-0124B57A9A1B
-Description=Rev1.0
+Description=Rev1.1
 AllowFabrication=0
 ParameterCount=0
-VariationCount=157
-Variation1=Designator=R77|UniqueId=\APJAULJE\EKVPJDEM\AENWBDTL|Kind=1|AlternatePart= 
-Variation2=Designator=R79|UniqueId=\APJAULJE\EKVPJDEM\YLBTPLBX|Kind=1|AlternatePart= 
-Variation3=Designator=R78|UniqueId=\APJAULJE\EKVPJDEM\GTJFHGSG|Kind=1|AlternatePart= 
-Variation4=Designator=R80|UniqueId=\APJAULJE\EKVPJDEM\LHTPUFYX|Kind=1|AlternatePart= 
-Variation5=Designator=R66|UniqueId=\APJAULJE\EKVPJDEM\UCSXWTYY|Kind=1|AlternatePart= 
-Variation6=Designator=R89|UniqueId=\APJAULJE\AZVLHECZ\KTERHGEZ|Kind=1|AlternatePart= 
-Variation7=Designator=R90|UniqueId=\APJAULJE\AZVLHECZ\BKDIEMOA|Kind=1|AlternatePart= 
-Variation8=Designator=R91|UniqueId=\APJAULJE\AZVLHECZ\ISXRRNSY|Kind=1|AlternatePart= 
-Variation9=Designator=R92|UniqueId=\APJAULJE\AZVLHECZ\SOQQWWMQ|Kind=1|AlternatePart= 
-Variation10=Designator=R93|UniqueId=\APJAULJE\AZVLHECZ\TXWSABMH|Kind=1|AlternatePart= 
-Variation11=Designator=R94|UniqueId=\APJAULJE\AZVLHECZ\VSYLCBGG|Kind=1|AlternatePart= 
-Variation12=Designator=R95|UniqueId=\APJAULJE\AZVLHECZ\TAXGOQTF|Kind=1|AlternatePart= 
-Variation13=Designator=R96|UniqueId=\APJAULJE\AZVLHECZ\KAEQUSYZ|Kind=1|AlternatePart= 
-Variation14=Designator=R97|UniqueId=\APJAULJE\AZVLHECZ\QIFUVIDG|Kind=1|AlternatePart= 
-Variation15=Designator=R98|UniqueId=\APJAULJE\AZVLHECZ\FQOYWICL|Kind=1|AlternatePart= 
-Variation16=Designator=R99|UniqueId=\APJAULJE\AZVLHECZ\DDUFXZPZ|Kind=1|AlternatePart= 
-Variation17=Designator=R100|UniqueId=\APJAULJE\AZVLHECZ\ZVUNRBHF|Kind=1|AlternatePart= 
-Variation18=Designator=R101|UniqueId=\APJAULJE\AZVLHECZ\KZITHVJD|Kind=1|AlternatePart= 
-Variation19=Designator=R102|UniqueId=\APJAULJE\AZVLHECZ\HNYMJXNC|Kind=1|AlternatePart= 
-Variation20=Designator=R103|UniqueId=\APJAULJE\AZVLHECZ\NOTENIQY|Kind=1|AlternatePart= 
-Variation21=Designator=R104|UniqueId=\APJAULJE\AZVLHECZ\DLDKUNAR|Kind=1|AlternatePart= 
-Variation22=Designator=R105|UniqueId=\APJAULJE\AZVLHECZ\JLXHARJN|Kind=1|AlternatePart= 
-Variation23=Designator=R106|UniqueId=\APJAULJE\AZVLHECZ\CAMNNDIF|Kind=1|AlternatePart= 
-Variation24=Designator=R108|UniqueId=\APJAULJE\AZVLHECZ\IDEDMJQA|Kind=1|AlternatePart= 
-Variation25=Designator=R109|UniqueId=\APJAULJE\AZVLHECZ\WCOZBXRU|Kind=1|AlternatePart= 
-Variation26=Designator=R110|UniqueId=\APJAULJE\AZVLHECZ\DXYKRSIF|Kind=1|AlternatePart= 
-Variation27=Designator=R111|UniqueId=\APJAULJE\AZVLHECZ\LACQDARU|Kind=1|AlternatePart= 
-Variation28=Designator=R112|UniqueId=\APJAULJE\AZVLHECZ\VNNBRWHI|Kind=1|AlternatePart= 
-Variation29=Designator=R113|UniqueId=\APJAULJE\AZVLHECZ\XQHWHSTF|Kind=1|AlternatePart= 
-Variation30=Designator=R107|UniqueId=\APJAULJE\AZVLHECZ\TOEOGWRN|Kind=1|AlternatePart= 
-Variation31=Designator=R124|UniqueId=\APJAULJE\VRGCEKBB\JUTHDQEQ|Kind=1|AlternatePart= 
-Variation32=Designator=R133|UniqueId=\APJAULJE\VRGCEKBB\WBNDABOC|Kind=1|AlternatePart= 
-Variation33=Designator=R134|UniqueId=\APJAULJE\VRGCEKBB\UFYIOATU|Kind=1|AlternatePart= 
-Variation34=Designator=R135|UniqueId=\APJAULJE\VRGCEKBB\GIODEJKK|Kind=1|AlternatePart= 
-Variation35=Designator=R136|UniqueId=\APJAULJE\VRGCEKBB\URTMIQBK|Kind=1|AlternatePart= 
-Variation36=Designator=R145|UniqueId=\APJAULJE\ELCCPEBF\IJWPBPAE|Kind=1|AlternatePart= 
-Variation37=Designator=R147|UniqueId=\APJAULJE\ELCCPEBF\IXFIJHKX|Kind=1|AlternatePart= 
-Variation38=Designator=R146|UniqueId=\APJAULJE\ELCCPEBF\HLMUIAOB|Kind=1|AlternatePart= 
-Variation39=Designator=R148|UniqueId=\APJAULJE\ELCCPEBF\DTTYTWJB|Kind=1|AlternatePart= 
-Variation40=Designator=R150|UniqueId=\APJAULJE\ELCCPEBF\YBJJMDFO|Kind=1|AlternatePart= 
-Variation41=Designator=R149|UniqueId=\APJAULJE\ELCCPEBF\PYIWEFDM|Kind=1|AlternatePart= 
-Variation42=Designator=R151|UniqueId=\APJAULJE\ELCCPEBF\BOLXNIWN|Kind=1|AlternatePart= 
-Variation43=Designator=R152|UniqueId=\APJAULJE\ELCCPEBF\XXGBXPND|Kind=1|AlternatePart= 
-Variation44=Designator=R153|UniqueId=\APJAULJE\ELCCPEBF\EYEADJGZ|Kind=1|AlternatePart= 
-Variation45=Designator=R154|UniqueId=\APJAULJE\ELCCPEBF\PBBZOBCC|Kind=1|AlternatePart= 
-Variation46=Designator=R155|UniqueId=\APJAULJE\ELCCPEBF\AJOFHGNK|Kind=1|AlternatePart= 
-Variation47=Designator=R156|UniqueId=\APJAULJE\ELCCPEBF\PIRJKHCW|Kind=1|AlternatePart= 
-Variation48=Designator=R157|UniqueId=\APJAULJE\ELCCPEBF\PHSVPYMY|Kind=1|AlternatePart= 
-Variation49=Designator=R158|UniqueId=\APJAULJE\ELCCPEBF\HTNZJTKQ|Kind=1|AlternatePart= 
-Variation50=Designator=R160|UniqueId=\APJAULJE\ELCCPEBF\QNJOKGKO|Kind=1|AlternatePart= 
-Variation51=Designator=R159|UniqueId=\APJAULJE\ELCCPEBF\OGFGKHOM|Kind=1|AlternatePart= 
-Variation52=Designator=R161|UniqueId=\APJAULJE\ELCCPEBF\JYVFJGUW|Kind=1|AlternatePart= 
-Variation53=Designator=R162|UniqueId=\APJAULJE\ELCCPEBF\DZYMVDTO|Kind=1|AlternatePart= 
-Variation54=Designator=R164|UniqueId=\APJAULJE\ELCCPEBF\XUZIIIPW|Kind=1|AlternatePart= 
-Variation55=Designator=R165|UniqueId=\APJAULJE\ELCCPEBF\FPMLGMDH|Kind=1|AlternatePart= 
-Variation56=Designator=R166|UniqueId=\APJAULJE\ELCCPEBF\OAXMONPD|Kind=1|AlternatePart= 
-Variation57=Designator=R167|UniqueId=\APJAULJE\ELCCPEBF\SNLUNZBZ|Kind=1|AlternatePart= 
-Variation58=Designator=R168|UniqueId=\APJAULJE\ELCCPEBF\JMWFAYPI|Kind=1|AlternatePart= 
-Variation59=Designator=R163|UniqueId=\APJAULJE\ELCCPEBF\XHTAZIDF|Kind=1|AlternatePart= 
-Variation60=Designator=R169|UniqueId=\APJAULJE\ELCCPEBF\WVXUNZRR|Kind=1|AlternatePart= 
-Variation61=Designator=R180|UniqueId=\APJAULJE\GNRZONFK\COCBHSDW|Kind=1|AlternatePart= 
-Variation62=Designator=R189|UniqueId=\APJAULJE\GNRZONFK\YRSDKYOK|Kind=1|AlternatePart= 
-Variation63=Designator=R190|UniqueId=\APJAULJE\GNRZONFK\BSHXPQUI|Kind=1|AlternatePart= 
-Variation64=Designator=R191|UniqueId=\APJAULJE\GNRZONFK\IYIDHBYC|Kind=1|AlternatePart= 
-Variation65=Designator=R192|UniqueId=\APJAULJE\GNRZONFK\BBNXNKTZ|Kind=1|AlternatePart= 
-Variation66=Designator=R201|UniqueId=\APJAULJE\ZDJMUEPZ\IXVVBRQV|Kind=1|AlternatePart= 
-Variation67=Designator=R206|UniqueId=\APJAULJE\ZDJMUEPZ\ZMPOYXCM|Kind=1|AlternatePart= 
-Variation68=Designator=R202|UniqueId=\APJAULJE\ZDJMUEPZ\TVUSNFUP|Kind=1|AlternatePart= 
-Variation69=Designator=R208|UniqueId=\APJAULJE\ZDJMUEPZ\PMBNKXHG|Kind=1|AlternatePart= 
-Variation70=Designator=R207|UniqueId=\APJAULJE\ZDJMUEPZ\LKXZOZNU|Kind=1|AlternatePart= 
-Variation71=Designator=R209|UniqueId=\APJAULJE\ZDJMUEPZ\MKSNJMYA|Kind=1|AlternatePart= 
-Variation72=Designator=R210|UniqueId=\APJAULJE\ZDJMUEPZ\RJYNBYDE|Kind=1|AlternatePart= 
-Variation73=Designator=R211|UniqueId=\APJAULJE\ZDJMUEPZ\MTJSDXGP|Kind=1|AlternatePart= 
-Variation74=Designator=R212|UniqueId=\APJAULJE\ZDJMUEPZ\BNBQVMTF|Kind=1|AlternatePart= 
-Variation75=Designator=R213|UniqueId=\APJAULJE\ZDJMUEPZ\OVDPGLYB|Kind=1|AlternatePart= 
-Variation76=Designator=R214|UniqueId=\APJAULJE\ZDJMUEPZ\AYFOGMWY|Kind=1|AlternatePart= 
-Variation77=Designator=R215|UniqueId=\APJAULJE\ZDJMUEPZ\OKLETFGF|Kind=1|AlternatePart= 
-Variation78=Designator=R216|UniqueId=\APJAULJE\ZDJMUEPZ\UYTNOGXN|Kind=1|AlternatePart= 
-Variation79=Designator=R217|UniqueId=\APJAULJE\ZDJMUEPZ\ZJKEOLNW|Kind=1|AlternatePart= 
-Variation80=Designator=R218|UniqueId=\APJAULJE\ZDJMUEPZ\EEASVWVR|Kind=1|AlternatePart= 
-Variation81=Designator=R219|UniqueId=\APJAULJE\ZDJMUEPZ\HRKMNJTM|Kind=1|AlternatePart= 
-Variation82=Designator=R220|UniqueId=\APJAULJE\ZDJMUEPZ\QQFTEYMR|Kind=1|AlternatePart= 
-Variation83=Designator=R221|UniqueId=\APJAULJE\ZDJMUEPZ\KMZQIDHU|Kind=1|AlternatePart= 
-Variation84=Designator=R229|UniqueId=\APJAULJE\ZDJMUEPZ\JHWOODVA|Kind=1|AlternatePart= 
-Variation85=Designator=R232|UniqueId=\APJAULJE\ZDJMUEPZ\WULBYGQJ|Kind=1|AlternatePart= 
-Variation86=Designator=R230|UniqueId=\APJAULJE\ZDJMUEPZ\DHWYMRRX|Kind=1|AlternatePart= 
-Variation87=Designator=R233|UniqueId=\APJAULJE\ZDJMUEPZ\RXNMLENL|Kind=1|AlternatePart= 
-Variation88=Designator=R234|UniqueId=\APJAULJE\ZDJMUEPZ\IUEDUTTS|Kind=1|AlternatePart= 
-Variation89=Designator=R235|UniqueId=\APJAULJE\ZDJMUEPZ\VSGQOWAT|Kind=1|AlternatePart= 
-Variation90=Designator=R225|UniqueId=\APJAULJE\ZDJMUEPZ\JQQJWVGU|Kind=1|AlternatePart= 
-Variation91=Designator=R247|UniqueId=\APJAULJE\ACQFPRNP\HEHDBPUJ|Kind=1|AlternatePart= 
-Variation92=Designator=R258|UniqueId=\APJAULJE\ACQFPRNP\WBRLHBMN|Kind=1|AlternatePart= 
-Variation93=Designator=R259|UniqueId=\APJAULJE\ACQFPRNP\NNSXXZCO|Kind=1|AlternatePart= 
-Variation94=Designator=R260|UniqueId=\APJAULJE\ACQFPRNP\IBMIVLTF|Kind=1|AlternatePart= 
-Variation95=Designator=R261|UniqueId=\APJAULJE\ACQFPRNP\HECMOLRI|Kind=1|AlternatePart= 
-Variation96=Designator=R270|UniqueId=\APJAULJE\HYYWLDEF\DCXWOIQL|Kind=1|AlternatePart= 
-Variation97=Designator=R275|UniqueId=\APJAULJE\HYYWLDEF\COOZMZZL|Kind=1|AlternatePart= 
-Variation98=Designator=R271|UniqueId=\APJAULJE\HYYWLDEF\IFLASMZG|Kind=1|AlternatePart= 
-Variation99=Designator=R276|UniqueId=\APJAULJE\HYYWLDEF\XINGVDCF|Kind=1|AlternatePart= 
-Variation100=Designator=R277|UniqueId=\APJAULJE\HYYWLDEF\MFCXSYEU|Kind=1|AlternatePart= 
-Variation101=Designator=R278|UniqueId=\APJAULJE\HYYWLDEF\VDROAFHE|Kind=1|AlternatePart= 
-Variation102=Designator=R279|UniqueId=\APJAULJE\HYYWLDEF\OCXOMWFO|Kind=1|AlternatePart= 
-Variation103=Designator=R280|UniqueId=\APJAULJE\HYYWLDEF\CQJSGIYR|Kind=1|AlternatePart= 
-Variation104=Designator=R281|UniqueId=\APJAULJE\HYYWLDEF\XECDYAUS|Kind=1|AlternatePart= 
-Variation105=Designator=R283|UniqueId=\APJAULJE\HYYWLDEF\YYDLJHFY|Kind=1|AlternatePart= 
-Variation106=Designator=R282|UniqueId=\APJAULJE\HYYWLDEF\ZNSCXHCV|Kind=1|AlternatePart= 
-Variation107=Designator=R284|UniqueId=\APJAULJE\HYYWLDEF\HVIRAAZR|Kind=1|AlternatePart= 
-Variation108=Designator=R285|UniqueId=\APJAULJE\HYYWLDEF\MHCXHNBV|Kind=1|AlternatePart= 
-Variation109=Designator=R286|UniqueId=\APJAULJE\HYYWLDEF\FGXKXRPZ|Kind=1|AlternatePart= 
-Variation110=Designator=R287|UniqueId=\APJAULJE\HYYWLDEF\XCZDFANW|Kind=1|AlternatePart= 
-Variation111=Designator=R288|UniqueId=\APJAULJE\HYYWLDEF\SLVTCFVI|Kind=1|AlternatePart= 
-Variation112=Designator=R289|UniqueId=\APJAULJE\HYYWLDEF\BKDYMVLC|Kind=1|AlternatePart= 
-Variation113=Designator=R290|UniqueId=\APJAULJE\HYYWLDEF\QZTJVMZN|Kind=1|AlternatePart= 
-Variation114=Designator=R298|UniqueId=\APJAULJE\HYYWLDEF\WFCWDIUO|Kind=1|AlternatePart= 
-Variation115=Designator=R301|UniqueId=\APJAULJE\HYYWLDEF\FCNZMMLO|Kind=1|AlternatePart= 
-Variation116=Designator=R299|UniqueId=\APJAULJE\HYYWLDEF\HRMPRSZA|Kind=1|AlternatePart= 
-Variation117=Designator=R302|UniqueId=\APJAULJE\HYYWLDEF\YLVGAGAM|Kind=1|AlternatePart= 
-Variation118=Designator=R303|UniqueId=\APJAULJE\HYYWLDEF\LHKAVODT|Kind=1|AlternatePart= 
-Variation119=Designator=R304|UniqueId=\APJAULJE\HYYWLDEF\VYYGWOQH|Kind=1|AlternatePart= 
-Variation120=Designator=R294|UniqueId=\APJAULJE\HYYWLDEF\LZIYKHEG|Kind=1|AlternatePart= 
-Variation121=Designator=C151|UniqueId=\PIFRWTPT\XTLNJRKR|Kind=1|AlternatePart= 
-Variation122=Designator=FB17|UniqueId=\PIFRWTPT\YFFFACXP|Kind=1|AlternatePart= 
-Variation123=Designator=C154|UniqueId=\PIFRWTPT\WOCDTPZD|Kind=1|AlternatePart= 
-Variation124=Designator=FB18|UniqueId=\PIFRWTPT\CPPHZGMN|Kind=0|AlternatePart= 
-Variation125=Designator=R274|UniqueId=\PIFRWTPT\VZVTRSKJ|Kind=1|AlternatePart= 
-Variation126=Designator=R7|UniqueId=\APJAULJE\DPMNXTWG|Kind=0|AlternatePart= 
-Variation127=Designator=R326|UniqueId=\APJAULJE\FPZICNZG|Kind=1|AlternatePart= 
-Variation128=Designator=R327|UniqueId=\APJAULJE\PGRICRTA|Kind=1|AlternatePart= 
-Variation129=Designator=R1|UniqueId=\APJAULJE\AHDQTWGS|Kind=0|AlternatePart= 
-Variation130=Designator=R2|UniqueId=\APJAULJE\UPYBWUSX|Kind=0|AlternatePart= 
-Variation131=Designator=R3|UniqueId=\APJAULJE\QOHBSANU|Kind=1|AlternatePart= 
-Variation132=Designator=R4|UniqueId=\APJAULJE\FJBCIRTA|Kind=1|AlternatePart= 
-Variation133=Designator=R5|UniqueId=\APJAULJE\NDOARLWS|Kind=1|AlternatePart= 
-Variation134=Designator=R6|UniqueId=\APJAULJE\AMJKAXXR|Kind=1|AlternatePart= 
-Variation135=Designator=R8|UniqueId=\APJAULJE\ASMXIYLD|Kind=1|AlternatePart= 
-Variation136=Designator=R9|UniqueId=\APJAULJE\HHEMXXPA|Kind=0|AlternatePart= 
-Variation137=Designator=R10|UniqueId=\APJAULJE\RHHKGDPX|Kind=0|AlternatePart= 
-Variation138=Designator=R11|UniqueId=\APJAULJE\GLNBBSTA|Kind=1|AlternatePart= 
-Variation139=Designator=R12|UniqueId=\APJAULJE\TOKANUCY|Kind=1|AlternatePart= 
-Variation140=Designator=R328|UniqueId=\APJAULJE\NBEZBOBK|Kind=1|AlternatePart= 
-Variation141=Designator=R329|UniqueId=\APJAULJE\DQSOTNQF|Kind=1|AlternatePart= 
-Variation142=Designator=R228|UniqueId=\APJAULJE\GGRPDTJY|Kind=1|AlternatePart= 
-Variation143=Designator=R272|UniqueId=\APJAULJE\CZMBMCBQ|Kind=1|AlternatePart= 
-Variation144=Designator=R35|UniqueId=\APJAULJE\SETVUJER|Kind=0|AlternatePart= 
-Variation145=Designator=R36|UniqueId=\APJAULJE\GBWSFIAL|Kind=0|AlternatePart= 
-Variation146=Designator=R37|UniqueId=\APJAULJE\FXGOHLNT|Kind=1|AlternatePart= 
-Variation147=Designator=R38|UniqueId=\APJAULJE\OMNOBBUM|Kind=1|AlternatePart= 
-Variation148=Designator=R203|UniqueId=\APJAULJE\DLDRUDGV|Kind=1|AlternatePart= 
-Variation149=Designator=R204|UniqueId=\APJAULJE\JMJLXXAI|Kind=1|AlternatePart= 
-Variation150=Designator=R205|UniqueId=\APJAULJE\NHGOXUZK|Kind=0|AlternatePart= 
-Variation151=Designator=R222|UniqueId=\APJAULJE\VYJGDNAZ|Kind=1|AlternatePart= 
-Variation152=Designator=R223|UniqueId=\APJAULJE\AUWUKRFF|Kind=0|AlternatePart= 
-Variation153=Designator=R224|UniqueId=\APJAULJE\EQFRIQSP|Kind=0|AlternatePart= 
-Variation154=Designator=R226|UniqueId=\APJAULJE\LDGSFQQB|Kind=1|AlternatePart= 
-Variation155=Designator=R227|UniqueId=\APJAULJE\DSEOMTJV|Kind=1|AlternatePart= 
-Variation156=Designator=R231|UniqueId=\APJAULJE\DNJVHEML|Kind=1|AlternatePart= 
-Variation157=Designator=R273|UniqueId=\APJAULJE\ATZIKEUS|Kind=1|AlternatePart= 
+VariationCount=146
+Variation1=Designator=R1|UniqueId=\APJAULJE\EKVPJDEM\AENWBDTL|Kind=1|AlternatePart= 
+Variation2=Designator=R18|UniqueId=\APJAULJE\EKVPJDEM\YLBTPLBX|Kind=1|AlternatePart= 
+Variation3=Designator=R6|UniqueId=\APJAULJE\EKVPJDEM\GTJFHGSG|Kind=1|AlternatePart= 
+Variation4=Designator=R5|UniqueId=\APJAULJE\EKVPJDEM\LHTPUFYX|Kind=1|AlternatePart= 
+Variation5=Designator=R113|UniqueId=\APJAULJE\EKVPJDEM\UCSXWTYY|Kind=1|AlternatePart= 
+Variation6=Designator=R30|UniqueId=\APJAULJE\AZVLHECZ\KTERHGEZ|Kind=1|AlternatePart= 
+Variation7=Designator=R86|UniqueId=\APJAULJE\AZVLHECZ\BKDIEMOA|Kind=1|AlternatePart= 
+Variation8=Designator=R61|UniqueId=\APJAULJE\AZVLHECZ\ISXRRNSY|Kind=1|AlternatePart= 
+Variation9=Designator=R58|UniqueId=\APJAULJE\AZVLHECZ\SOQQWWMQ|Kind=1|AlternatePart= 
+Variation10=Designator=R56|UniqueId=\APJAULJE\AZVLHECZ\TXWSABMH|Kind=1|AlternatePart= 
+Variation11=Designator=R257|UniqueId=\APJAULJE\AZVLHECZ\VSYLCBGG|Kind=1|AlternatePart= 
+Variation12=Designator=R27|UniqueId=\APJAULJE\AZVLHECZ\TAXGOQTF|Kind=1|AlternatePart= 
+Variation13=Designator=R28|UniqueId=\APJAULJE\AZVLHECZ\KAEQUSYZ|Kind=1|AlternatePart= 
+Variation14=Designator=R29|UniqueId=\APJAULJE\AZVLHECZ\QIFUVIDG|Kind=1|AlternatePart= 
+Variation15=Designator=R31|UniqueId=\APJAULJE\AZVLHECZ\FQOYWICL|Kind=1|AlternatePart= 
+Variation16=Designator=R51|UniqueId=\APJAULJE\AZVLHECZ\DDUFXZPZ|Kind=1|AlternatePart= 
+Variation17=Designator=R280|UniqueId=\APJAULJE\AZVLHECZ\ZVUNRBHF|Kind=1|AlternatePart= 
+Variation18=Designator=R281|UniqueId=\APJAULJE\AZVLHECZ\KZITHVJD|Kind=1|AlternatePart= 
+Variation19=Designator=R87|UniqueId=\APJAULJE\AZVLHECZ\HNYMJXNC|Kind=1|AlternatePart= 
+Variation20=Designator=R108|UniqueId=\APJAULJE\AZVLHECZ\NOTENIQY|Kind=1|AlternatePart= 
+Variation21=Designator=R107|UniqueId=\APJAULJE\AZVLHECZ\DLDKUNAR|Kind=1|AlternatePart= 
+Variation22=Designator=R106|UniqueId=\APJAULJE\AZVLHECZ\JLXHARJN|Kind=1|AlternatePart= 
+Variation23=Designator=R105|UniqueId=\APJAULJE\AZVLHECZ\CAMNNDIF|Kind=1|AlternatePart= 
+Variation24=Designator=R279|UniqueId=\APJAULJE\AZVLHECZ\IDEDMJQA|Kind=1|AlternatePart= 
+Variation25=Designator=R35|UniqueId=\APJAULJE\AZVLHECZ\WCOZBXRU|Kind=1|AlternatePart= 
+Variation26=Designator=R54|UniqueId=\APJAULJE\AZVLHECZ\DXYKRSIF|Kind=1|AlternatePart= 
+Variation27=Designator=R258|UniqueId=\APJAULJE\AZVLHECZ\LACQDARU|Kind=1|AlternatePart= 
+Variation28=Designator=R109|UniqueId=\APJAULJE\AZVLHECZ\VNNBRWHI|Kind=1|AlternatePart= 
+Variation29=Designator=R110|UniqueId=\APJAULJE\AZVLHECZ\XQHWHSTF|Kind=1|AlternatePart= 
+Variation30=Designator=R85|UniqueId=\APJAULJE\AZVLHECZ\TOEOGWRN|Kind=1|AlternatePart= 
+Variation31=Designator=R22|UniqueId=\APJAULJE\VRGCEKBB\JUTHDQEQ|Kind=1|AlternatePart= 
+Variation32=Designator=R137|UniqueId=\APJAULJE\VRGCEKBB\WBNDABOC|Kind=1|AlternatePart= 
+Variation33=Designator=R128|UniqueId=\APJAULJE\VRGCEKBB\UFYIOATU|Kind=1|AlternatePart= 
+Variation34=Designator=R119|UniqueId=\APJAULJE\VRGCEKBB\GIODEJKK|Kind=1|AlternatePart= 
+Variation35=Designator=R131|UniqueId=\APJAULJE\VRGCEKBB\URTMIQBK|Kind=1|AlternatePart= 
+Variation36=Designator=R94|UniqueId=\APJAULJE\ELCCPEBF\IJWPBPAE|Kind=1|AlternatePart= 
+Variation37=Designator=R68|UniqueId=\APJAULJE\ELCCPEBF\IXFIJHKX|Kind=1|AlternatePart= 
+Variation38=Designator=R48|UniqueId=\APJAULJE\ELCCPEBF\HLMUIAOB|Kind=1|AlternatePart= 
+Variation39=Designator=R72|UniqueId=\APJAULJE\ELCCPEBF\DTTYTWJB|Kind=1|AlternatePart= 
+Variation40=Designator=R284|UniqueId=\APJAULJE\ELCCPEBF\YBJJMDFO|Kind=1|AlternatePart= 
+Variation41=Designator=R75|UniqueId=\APJAULJE\ELCCPEBF\PYIWEFDM|Kind=1|AlternatePart= 
+Variation42=Designator=R97|UniqueId=\APJAULJE\ELCCPEBF\BOLXNIWN|Kind=1|AlternatePart= 
+Variation43=Designator=R96|UniqueId=\APJAULJE\ELCCPEBF\XXGBXPND|Kind=1|AlternatePart= 
+Variation44=Designator=R95|UniqueId=\APJAULJE\ELCCPEBF\EYEADJGZ|Kind=1|AlternatePart= 
+Variation45=Designator=R93|UniqueId=\APJAULJE\ELCCPEBF\PBBZOBCC|Kind=1|AlternatePart= 
+Variation46=Designator=R81|UniqueId=\APJAULJE\ELCCPEBF\AJOFHGNK|Kind=1|AlternatePart= 
+Variation47=Designator=R265|UniqueId=\APJAULJE\ELCCPEBF\PIRJKHCW|Kind=1|AlternatePart= 
+Variation48=Designator=R264|UniqueId=\APJAULJE\ELCCPEBF\PHSVPYMY|Kind=1|AlternatePart= 
+Variation49=Designator=R47|UniqueId=\APJAULJE\ELCCPEBF\HTNZJTKQ|Kind=1|AlternatePart= 
+Variation50=Designator=R37|UniqueId=\APJAULJE\ELCCPEBF\QNJOKGKO|Kind=1|AlternatePart= 
+Variation51=Designator=R36|UniqueId=\APJAULJE\ELCCPEBF\OGFGKHOM|Kind=1|AlternatePart= 
+Variation52=Designator=R40|UniqueId=\APJAULJE\ELCCPEBF\JYVFJGUW|Kind=1|AlternatePart= 
+Variation53=Designator=R41|UniqueId=\APJAULJE\ELCCPEBF\DZYMVDTO|Kind=1|AlternatePart= 
+Variation54=Designator=R263|UniqueId=\APJAULJE\ELCCPEBF\XUZIIIPW|Kind=1|AlternatePart= 
+Variation55=Designator=R98|UniqueId=\APJAULJE\ELCCPEBF\FPMLGMDH|Kind=1|AlternatePart= 
+Variation56=Designator=R78|UniqueId=\APJAULJE\ELCCPEBF\OAXMONPD|Kind=1|AlternatePart= 
+Variation57=Designator=R283|UniqueId=\APJAULJE\ELCCPEBF\SNLUNZBZ|Kind=1|AlternatePart= 
+Variation58=Designator=R39|UniqueId=\APJAULJE\ELCCPEBF\JMWFAYPI|Kind=1|AlternatePart= 
+Variation59=Designator=R46|UniqueId=\APJAULJE\ELCCPEBF\XHTAZIDF|Kind=1|AlternatePart= 
+Variation60=Designator=R38|UniqueId=\APJAULJE\ELCCPEBF\WVXUNZRR|Kind=1|AlternatePart= 
+Variation61=Designator=R143|UniqueId=\APJAULJE\GNRZONFK\COCBHSDW|Kind=1|AlternatePart= 
+Variation62=Designator=R245|UniqueId=\APJAULJE\GNRZONFK\YRSDKYOK|Kind=1|AlternatePart= 
+Variation63=Designator=R219|UniqueId=\APJAULJE\GNRZONFK\BSHXPQUI|Kind=1|AlternatePart= 
+Variation64=Designator=R212|UniqueId=\APJAULJE\GNRZONFK\IYIDHBYC|Kind=1|AlternatePart= 
+Variation65=Designator=R247|UniqueId=\APJAULJE\GNRZONFK\BBNXNKTZ|Kind=1|AlternatePart= 
+Variation66=Designator=R228|UniqueId=\APJAULJE\ZDJMUEPZ\IXVVBRQV|Kind=1|AlternatePart= 
+Variation67=Designator=R193|UniqueId=\APJAULJE\ZDJMUEPZ\ZMPOYXCM|Kind=1|AlternatePart= 
+Variation68=Designator=R168|UniqueId=\APJAULJE\ZDJMUEPZ\TVUSNFUP|Kind=1|AlternatePart= 
+Variation69=Designator=R200|UniqueId=\APJAULJE\ZDJMUEPZ\PMBNKXHG|Kind=1|AlternatePart= 
+Variation70=Designator=R196|UniqueId=\APJAULJE\ZDJMUEPZ\LKXZOZNU|Kind=1|AlternatePart= 
+Variation71=Designator=R232|UniqueId=\APJAULJE\ZDJMUEPZ\MKSNJMYA|Kind=1|AlternatePart= 
+Variation72=Designator=R231|UniqueId=\APJAULJE\ZDJMUEPZ\RJYNBYDE|Kind=1|AlternatePart= 
+Variation73=Designator=R230|UniqueId=\APJAULJE\ZDJMUEPZ\MTJSDXGP|Kind=1|AlternatePart= 
+Variation74=Designator=R229|UniqueId=\APJAULJE\ZDJMUEPZ\BNBQVMTF|Kind=1|AlternatePart= 
+Variation75=Designator=R227|UniqueId=\APJAULJE\ZDJMUEPZ\OVDPGLYB|Kind=1|AlternatePart= 
+Variation76=Designator=R207|UniqueId=\APJAULJE\ZDJMUEPZ\AYFOGMWY|Kind=1|AlternatePart= 
+Variation77=Designator=R297|UniqueId=\APJAULJE\ZDJMUEPZ\OKLETFGF|Kind=1|AlternatePart= 
+Variation78=Designator=R296|UniqueId=\APJAULJE\ZDJMUEPZ\UYTNOGXN|Kind=1|AlternatePart= 
+Variation79=Designator=R167|UniqueId=\APJAULJE\ZDJMUEPZ\ZJKEOLNW|Kind=1|AlternatePart= 
+Variation80=Designator=R149|UniqueId=\APJAULJE\ZDJMUEPZ\EEASVWVR|Kind=1|AlternatePart= 
+Variation81=Designator=R150|UniqueId=\APJAULJE\ZDJMUEPZ\HRKMNJTM|Kind=1|AlternatePart= 
+Variation82=Designator=R153|UniqueId=\APJAULJE\ZDJMUEPZ\QQFTEYMR|Kind=1|AlternatePart= 
+Variation83=Designator=R154|UniqueId=\APJAULJE\ZDJMUEPZ\KMZQIDHU|Kind=1|AlternatePart= 
+Variation84=Designator=R298|UniqueId=\APJAULJE\ZDJMUEPZ\JHWOODVA|Kind=1|AlternatePart= 
+Variation85=Designator=R201|UniqueId=\APJAULJE\ZDJMUEPZ\WULBYGQJ|Kind=1|AlternatePart= 
+Variation86=Designator=R233|UniqueId=\APJAULJE\ZDJMUEPZ\DHWYMRRX|Kind=1|AlternatePart= 
+Variation87=Designator=R321|UniqueId=\APJAULJE\ZDJMUEPZ\RXNMLENL|Kind=1|AlternatePart= 
+Variation88=Designator=R152|UniqueId=\APJAULJE\ZDJMUEPZ\IUEDUTTS|Kind=1|AlternatePart= 
+Variation89=Designator=R151|UniqueId=\APJAULJE\ZDJMUEPZ\VSGQOWAT|Kind=1|AlternatePart= 
+Variation90=Designator=R169|UniqueId=\APJAULJE\ZDJMUEPZ\JQQJWVGU|Kind=1|AlternatePart= 
+Variation91=Designator=R249|UniqueId=\APJAULJE\ACQFPRNP\HEHDBPUJ|Kind=1|AlternatePart= 
+Variation92=Designator=R118|UniqueId=\APJAULJE\ACQFPRNP\WBRLHBMN|Kind=1|AlternatePart= 
+Variation93=Designator=R126|UniqueId=\APJAULJE\ACQFPRNP\NNSXXZCO|Kind=1|AlternatePart= 
+Variation94=Designator=R136|UniqueId=\APJAULJE\ACQFPRNP\IBMIVLTF|Kind=1|AlternatePart= 
+Variation95=Designator=R124|UniqueId=\APJAULJE\ACQFPRNP\HECMOLRI|Kind=1|AlternatePart= 
+Variation96=Designator=R162|UniqueId=\APJAULJE\HYYWLDEF\DCXWOIQL|Kind=1|AlternatePart= 
+Variation97=Designator=R183|UniqueId=\APJAULJE\HYYWLDEF\COOZMZZL|Kind=1|AlternatePart= 
+Variation98=Designator=R209|UniqueId=\APJAULJE\HYYWLDEF\IFLASMZG|Kind=1|AlternatePart= 
+Variation99=Designator=R179|UniqueId=\APJAULJE\HYYWLDEF\XINGVDCF|Kind=1|AlternatePart= 
+Variation100=Designator=R177|UniqueId=\APJAULJE\HYYWLDEF\MFCXSYEU|Kind=1|AlternatePart= 
+Variation101=Designator=R290|UniqueId=\APJAULJE\HYYWLDEF\VDROAFHE|Kind=1|AlternatePart= 
+Variation102=Designator=R159|UniqueId=\APJAULJE\HYYWLDEF\OCXOMWFO|Kind=1|AlternatePart= 
+Variation103=Designator=R160|UniqueId=\APJAULJE\HYYWLDEF\CQJSGIYR|Kind=1|AlternatePart= 
+Variation104=Designator=R161|UniqueId=\APJAULJE\HYYWLDEF\XECDYAUS|Kind=1|AlternatePart= 
+Variation105=Designator=R175|UniqueId=\APJAULJE\HYYWLDEF\YYDLJHFY|Kind=1|AlternatePart= 
+Variation106=Designator=R163|UniqueId=\APJAULJE\HYYWLDEF\ZNSCXHCV|Kind=1|AlternatePart= 
+Variation107=Designator=R316|UniqueId=\APJAULJE\HYYWLDEF\HVIRAAZR|Kind=1|AlternatePart= 
+Variation108=Designator=R317|UniqueId=\APJAULJE\HYYWLDEF\MHCXHNBV|Kind=1|AlternatePart= 
+Variation109=Designator=R210|UniqueId=\APJAULJE\HYYWLDEF\FGXKXRPZ|Kind=1|AlternatePart= 
+Variation110=Designator=R242|UniqueId=\APJAULJE\HYYWLDEF\XCZDFANW|Kind=1|AlternatePart= 
+Variation111=Designator=R241|UniqueId=\APJAULJE\HYYWLDEF\SLVTCFVI|Kind=1|AlternatePart= 
+Variation112=Designator=R238|UniqueId=\APJAULJE\HYYWLDEF\BKDYMVLC|Kind=1|AlternatePart= 
+Variation113=Designator=R237|UniqueId=\APJAULJE\HYYWLDEF\QZTJVMZN|Kind=1|AlternatePart= 
+Variation114=Designator=R315|UniqueId=\APJAULJE\HYYWLDEF\WFCWDIUO|Kind=1|AlternatePart= 
+Variation115=Designator=R170|UniqueId=\APJAULJE\HYYWLDEF\FCNZMMLO|Kind=1|AlternatePart= 
+Variation116=Designator=R158|UniqueId=\APJAULJE\HYYWLDEF\HRMPRSZA|Kind=1|AlternatePart= 
+Variation117=Designator=R291|UniqueId=\APJAULJE\HYYWLDEF\YLVGAGAM|Kind=1|AlternatePart= 
+Variation118=Designator=R239|UniqueId=\APJAULJE\HYYWLDEF\LHKAVODT|Kind=1|AlternatePart= 
+Variation119=Designator=R240|UniqueId=\APJAULJE\HYYWLDEF\VYYGWOQH|Kind=1|AlternatePart= 
+Variation120=Designator=R208|UniqueId=\APJAULJE\HYYWLDEF\LZIYKHEG|Kind=1|AlternatePart= 
+Variation121=Designator=C12|UniqueId=\PIFRWTPT\XTLNJRKR|Kind=1|AlternatePart= 
+Variation122=Designator=FB1|UniqueId=\PIFRWTPT\YFFFACXP|Kind=1|AlternatePart= 
+Variation123=Designator=C9|UniqueId=\PIFRWTPT\WOCDTPZD|Kind=1|AlternatePart= 
+Variation124=Designator=R256|UniqueId=\PIFRWTPT\VZVTRSKJ|Kind=1|AlternatePart= 
+Variation125=Designator=R104|UniqueId=\APJAULJE\FPZICNZG|Kind=1|AlternatePart= 
+Variation126=Designator=R84|UniqueId=\APJAULJE\PGRICRTA|Kind=1|AlternatePart= 
+Variation127=Designator=R79|UniqueId=\APJAULJE\QOHBSANU|Kind=1|AlternatePart= 
+Variation128=Designator=R74|UniqueId=\APJAULJE\FJBCIRTA|Kind=1|AlternatePart= 
+Variation129=Designator=R67|UniqueId=\APJAULJE\NDOARLWS|Kind=1|AlternatePart= 
+Variation130=Designator=R64|UniqueId=\APJAULJE\AMJKAXXR|Kind=1|AlternatePart= 
+Variation131=Designator=R55|UniqueId=\APJAULJE\ASMXIYLD|Kind=1|AlternatePart= 
+Variation132=Designator=R259|UniqueId=\APJAULJE\GLNBBSTA|Kind=1|AlternatePart= 
+Variation133=Designator=R282|UniqueId=\APJAULJE\TOKANUCY|Kind=1|AlternatePart= 
+Variation134=Designator=R20|UniqueId=\APJAULJE\NBEZBOBK|Kind=1|AlternatePart= 
+Variation135=Designator=R45|UniqueId=\APJAULJE\DQSOTNQF|Kind=1|AlternatePart= 
+Variation136=Designator=R243|UniqueId=\APJAULJE\GGRPDTJY|Kind=1|AlternatePart= 
+Variation137=Designator=R211|UniqueId=\APJAULJE\CZMBMCBQ|Kind=1|AlternatePart= 
+Variation138=Designator=R202|UniqueId=\APJAULJE\FXGOHLNT|Kind=1|AlternatePart= 
+Variation139=Designator=R195|UniqueId=\APJAULJE\OMNOBBUM|Kind=1|AlternatePart= 
+Variation140=Designator=R191|UniqueId=\APJAULJE\DLDRUDGV|Kind=1|AlternatePart= 
+Variation141=Designator=R186|UniqueId=\APJAULJE\JMJLXXAI|Kind=1|AlternatePart= 
+Variation142=Designator=R176|UniqueId=\APJAULJE\VYJGDNAZ|Kind=1|AlternatePart= 
+Variation143=Designator=R292|UniqueId=\APJAULJE\LDGSFQQB|Kind=1|AlternatePart= 
+Variation144=Designator=R320|UniqueId=\APJAULJE\DSEOMTJV|Kind=1|AlternatePart= 
+Variation145=Designator=R139|UniqueId=\APJAULJE\DNJVHEML|Kind=1|AlternatePart= 
+Variation146=Designator=R166|UniqueId=\APJAULJE\ATZIKEUS|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -554,172 +559,340 @@ DocumentPath=Outputs\REV1.0_05072023\NC Drill\H4_6-port_EtherCAT_Junction_Module
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.EXTREP
+DocumentPath=Outputs\REV1.1\NC Drill\H4_6-port_EtherCAT_Junction_Module.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.G1
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.G2
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.G3
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.G1
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.G4
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.G1
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GBL
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.G2
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GBO
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.G2
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GBP
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.G3
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GBS
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.G3
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GD1
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.G4
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GKO
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.G4
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM1
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM2
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM7
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM8
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM9
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM10
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM11
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM12
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM13
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM15
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM16
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM18
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM19
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GPB
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GPT
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GTL
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GTO
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM7
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GTP
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GM7
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GTS
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM8
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Outputs\REV1.0_05072023\NC Drill\H4_6-port_EtherCAT_Junction_Module.LDP
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GM8
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.REP
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM9
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.RUL
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GM9
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Outputs\REV1.0_05072023\NC Drill\H4_6-port_EtherCAT_Junction_Module.TXT
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM10
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Outputs\REV1.0_05072023\Pick Place\Pick Place for H4_6-port_EtherCAT_Junction_Module(Rev1.0).csv
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GM10
 DItemRevisionGUID=
 
 [GeneratedDocument40]
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM11
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GM11
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM12
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GM12
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM16
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GM16
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM18
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GM18
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM19
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GM19
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Outputs\REV1.0_05072023\NC Drill\H4_6-port_EtherCAT_Junction_Module.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Outputs\REV1.1\NC Drill\H4_6-port_EtherCAT_Junction_Module.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.REP
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.REP
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=Outputs\REV1.0_05072023\NC Drill\H4_6-port_EtherCAT_Junction_Module.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=Outputs\REV1.1\NC Drill\H4_6-port_EtherCAT_Junction_Module.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=Outputs\REV1.0_05072023\Pick Place\Pick Place for H4_6-port_EtherCAT_Junction_Module(Rev1.0).csv
+DItemRevisionGUID=
+
+[GeneratedDocument75]
 DocumentPath=Outputs\REV1.0_05072023\Pick Place\Pick Place for H4_6-port_EtherCAT_Junction_Module(Rev1.0).txt
 DItemRevisionGUID=
 
+[GeneratedDocument76]
+DocumentPath=Outputs\REV1.1\Pick Place\Pick Place for H4_6-port_EtherCAT_Junction_Module(Rev1.1).csv
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=Outputs\REV1.1\Pick Place\Pick Place for H4_6-port_EtherCAT_Junction_Module(Rev1.1).txt
+DItemRevisionGUID=
+
 [Parameter1]
-Name=PCB_Name
-Value=H4_6port_Junction_Module
+Name=Project_Rev_Date_2
+Value=2023-09-15
 
 [Parameter2]
-Name=Project_Author
-Value=Chandra U.
+Name=Project_Rev_Date
+Value=2023-07-01
 
 [Parameter3]
-Name=Project_Author_Checked
-Value=Alexis M.
+Name=Project_Title
+Value=H4 6-port EthercAT Junction Module
 
 [Parameter4]
-Name=Project_Date
-Value=04/07/2023
+Name=Project_Revision_Description_2
+Value=Ethernet ESD Protections added
 
 [Parameter5]
+Name=Project_Revision_Description
+Value=Initial release
+
+[Parameter6]
+Name=Project_Revision_2
+Value=1.1
+
+[Parameter7]
 Name=Project_Revision
 Value=1.0
 
-[Parameter6]
-Name=Project_Title
-Value=H4 6-port EthercAT Junction Module
+[Parameter8]
+Name=Project_Date
+Value=04/07/2023
+
+[Parameter9]
+Name=Project_Author_Checked
+Value=Alexis M.
+
+[Parameter10]
+Name=Project_Author
+Value=Chandra U.
+
+[Parameter11]
+Name=PCB_Name
+Value=H4_6port_Junction_Module
 
 [Configuration1]
 Name=Sources
@@ -1423,6 +1596,36 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
+OutputType13=Ansoft Neutral
+OutputName13=Ansoft Neutral (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=HyperLynx
+OutputName14=HyperLynx (AutoPCB)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=Orcad v7 Capture Design
+OutputName15=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD ASCII
+OutputName16=P-CAD ASCII (AutoPCB)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=P-CAD V16 Schematic Design
+OutputName17=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=SiSoft
+OutputName18=SiSoft (AutoPCB)
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1556,6 +1759,16 @@ Type117=1
 Type118=1
 Type119=1
 Type120=1
+Type121=1
+Type122=1
+Type123=1
+Type124=1
+Type125=1
+Type126=1
+Type127=1
+Type128=1
+Type129=1
+Type130=1
 
 [Difference Levels]
 Type1=1
@@ -1626,6 +1839,12 @@ Type65=1
 Type66=1
 Type67=1
 Type68=1
+Type69=1
+Type70=1
+Type71=1
+Type72=1
+Type73=1
+Type74=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1754,6 +1973,30 @@ Type124=1
 Type125=1
 Type126=1
 Type127=1
+Type128=2
+Type129=2
+Type130=2
+Type131=2
+Type132=2
+Type133=2
+Type134=2
+Type135=2
+Type136=2
+Type137=2
+Type138=1
+Type139=1
+Type140=1
+Type141=1
+Type142=1
+Type143=1
+Type144=1
+Type145=1
+Type146=1
+Type147=2
+Type148=2
+Type149=2
+Type150=2
+Type151=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW

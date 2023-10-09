@@ -18,10 +18,10 @@ RevisionNamingSchemeGUID=
 Name=PCB_Fab.OutJob
 Description=
 TargetOutputMedium=Pick n' Place
-VariantName=REV1.0
+VariantName=Rev1.1
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=MF4700 Series
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -253,7 +253,7 @@ PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 OutputType11=AutoCAD dwg/dxf PCB
 OutputName11=AutoCAD dwg/dxf File PCB
 OutputCategory11=Export
-OutputDocumentPath11=PCB_F2838_ControlCARD_Docking.PcbDoc
+OutputDocumentPath11=
 OutputVariantName11=
 OutputEnabled11=0
 OutputEnabled11_OutputMedium1=0
@@ -270,11 +270,11 @@ Configuration11_Name1=OutputConfigurationParameter1
 Configuration11_Item1=Record=ExportDXFView|ACadVersion=8|UseRoundedTracks=True|Components=1|HoleMode=1|Units=1|OutputFormat=0|ZeroWidthLines=0|LayersHash=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16777217~1,16777220~1,16777218~1,16777219~1,16777221~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16908289~1,16908290~1,16908291~1,16908293~1,16908301~1,16908302~1,16908303~1,16908304~1,16973839~1,17039361~1,16973836~1,16973837~1,16973838~1,17039362~1,17039363~1,17039364~1,17039365~1|OnlyVisibleLayers=False|DocumentPath=C:\Users\amaslyczyk\Documents\General Use Boards\PCB_F2838_ControlCARD_Docking\PCB_F2838_ControlCARD_Docking.PcbDoc
 
 [PublishSettings]
-OutputFilePath2=C:\Users\alex9\Documents\H4\Designs\H4_EtherCAT_6-Port_Module\H4_EtherCAT_6-Port_Module\Outputs\REV1.0_05072023\
+OutputFilePath2=C:\Users\alex9\Documents\H4\Designs\H4_EtherCAT_6-Port_Module\H4_EtherCAT_6-Port_Module\Outputs\REV1.1\
 ReleaseManaged2=0
 OutputBasePath2=Outputs\
-OutputPathMedia2=REV1.0_05072023
-OutputPathMediaValue2=REV1.0_05072023
+OutputPathMedia2=REV1.1
+OutputPathMediaValue2=REV1.1
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
@@ -323,11 +323,11 @@ OutputFileNameMulti4=PSU_Multi-rails_Rev.1.1
 UseOutputNameForMulti4=1
 OutputFileNameSpecial4=
 OpenOutput4=1
-OutputFilePath5=C:\Users\alex9\Documents\H4\Designs\H4_EtherCAT_6-Port_Module\H4_EtherCAT_6-Port_Module\Outputs\REV1.0_05072023\
+OutputFilePath5=C:\Users\alex9\Documents\H4\Designs\H4_EtherCAT_6-Port_Module\H4_EtherCAT_6-Port_Module\Outputs\REV1.1\
 ReleaseManaged5=0
 OutputBasePath5=Outputs\
-OutputPathMedia5=REV1.0_05072023
-OutputPathMediaValue5=REV1.0_05072023
+OutputPathMedia5=REV1.1
+OutputPathMediaValue5=REV1.1
 OutputPathOutputer5=[Output Type]
 OutputPathOutputerPrefix5=
 OutputPathOutputerValue5=
@@ -418,7 +418,7 @@ PDFACompliance9=Disabled
 PDFVersion9=Default
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\alex9\Documents\H4\Designs\H4_EtherCAT_6-Port_Module\H4_EtherCAT_6-Port_Module\Outputs\REV1.0_05072023\
+RelativeOutputPath2=C:\Users\alex9\Documents\H4\Designs\H4_EtherCAT_6-Port_Module\H4_EtherCAT_6-Port_Module\Outputs\REV1.1\
 OpenOutputs2=1
 AddToProject2=1
 TimestampFolder2=0
@@ -440,7 +440,7 @@ OpenGerberOutput4=0
 OpenNCDrillOutput4=0
 OpenIPCOutput4=0
 EnableReload4=0
-RelativeOutputPath5=C:\Users\alex9\Documents\H4\Designs\H4_EtherCAT_6-Port_Module\H4_EtherCAT_6-Port_Module\Outputs\REV1.0_05072023\
+RelativeOutputPath5=C:\Users\alex9\Documents\H4\Designs\H4_EtherCAT_6-Port_Module\H4_EtherCAT_6-Port_Module\Outputs\REV1.1\
 OpenOutputs5=1
 AddToProject5=1
 TimestampFolder5=0
