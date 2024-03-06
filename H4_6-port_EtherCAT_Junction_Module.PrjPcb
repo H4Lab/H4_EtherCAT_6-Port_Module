@@ -32,6 +32,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
+ConstraintManagerFlow=0
 IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
@@ -43,6 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=Rev1.1
 
 [Preferences]
 PrefsVaultGUID=
@@ -851,48 +853,48 @@ DocumentPath=Outputs\REV1.1\Pick Place\Pick Place for H4_6-port_EtherCAT_Junctio
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Project_Rev_Date_2
-Value=2023-09-15
+Name=PCB_Name
+Value=H4_6port_Junction_Module
 
 [Parameter2]
+Name=Project_Author
+Value=Chandra U.
+
+[Parameter3]
+Name=Project_Author_Checked
+Value=Alexis M.
+
+[Parameter4]
+Name=Project_Date
+Value=04/07/2023
+
+[Parameter5]
 Name=Project_Rev_Date
 Value=2023-07-01
 
-[Parameter3]
-Name=Project_Title
-Value=H4 6-port EthercAT Junction Module
-
-[Parameter4]
-Name=Project_Revision_Description_2
-Value=Ethernet ESD Protections added
-
-[Parameter5]
-Name=Project_Revision_Description
-Value=Initial release
-
 [Parameter6]
-Name=Project_Revision_2
-Value=1.1
+Name=Project_Rev_Date_2
+Value=2023-09-15
 
 [Parameter7]
 Name=Project_Revision
 Value=1.0
 
 [Parameter8]
-Name=Project_Date
-Value=04/07/2023
+Name=Project_Revision_2
+Value=1.1
 
 [Parameter9]
-Name=Project_Author_Checked
-Value=Alexis M.
+Name=Project_Revision_Description
+Value=Initial release
 
 [Parameter10]
-Name=Project_Author
-Value=Chandra U.
+Name=Project_Revision_Description_2
+Value=Ethernet ESD Protections added
 
 [Parameter11]
-Name=PCB_Name
-Value=H4_6port_Junction_Module
+Name=Project_Title
+Value=H4 6-port EthercAT Junction Module
 
 [Configuration1]
 Name=Sources
@@ -1596,36 +1598,6 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=Ansoft Neutral
-OutputName13=Ansoft Neutral (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=HyperLynx
-OutputName14=HyperLynx (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=Orcad v7 Capture Design
-OutputName15=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD ASCII
-OutputName16=P-CAD ASCII (AutoPCB)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=P-CAD V16 Schematic Design
-OutputName17=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=SiSoft
-OutputName18=SiSoft (AutoPCB)
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1769,6 +1741,14 @@ Type127=1
 Type128=1
 Type129=1
 Type130=1
+Type131=1
+Type132=1
+Type133=1
+Type134=1
+Type135=1
+Type136=1
+Type137=1
+Type138=1
 
 [Difference Levels]
 Type1=1
@@ -1966,6 +1946,7 @@ Type116=2
 Type117=3
 Type118=3
 Type119=3
+MultiChannelAlternate=0
 AlternateItemFail=3
 Type122=2
 Type123=1
@@ -1997,6 +1978,8 @@ Type148=2
 Type149=2
 Type150=2
 Type151=2
+Type152=1
+Type153=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
