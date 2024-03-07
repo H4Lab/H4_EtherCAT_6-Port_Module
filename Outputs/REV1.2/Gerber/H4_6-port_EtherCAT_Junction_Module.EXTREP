@@ -1,0 +1,38 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: H4_6-port_EtherCAT_Junction_Module.GBR   2024-03-06  8:15:22 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                TopMii                                  
+.G1                 GND1                                    
+.G2                 RXTX                                    
+.G3                 GND2                                    
+.G4                 PWR                                     
+.GBL                BotSig                                  
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM1                Mechanical 1                            
+.GM2                Mechanical 2                            
+.GM7                Top Designator                          
+.GM8                Bottom Designator                       
+.GM9                Top Component Outline                   
+.GM10               Bottom Component Outline                
+.GM11               Top Component Center                    
+.GM12               Bottom Component Center                 
+.GM13               Mechanical 13                           
+.GM15               Bottom Courtyard                        
+.GM16               Top Courtyard                           
+.GM18               Top Assembly                            
+.GM19               Bottom Assembly                         
+.GKO                Keep-Out Layer                          
+.GPT                Top Pad Master                          
+.GPB                Bottom Pad Master                       
+.GD1                Drill Drawing                           
+------------------------------------------------------------------------------------------

@@ -37,6 +37,8 @@ IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
+VaultGUID=1C0319C3-26A6-41D1-8F62-5DE4E614A743
+ReleaseVaultName=H4 Inc.
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
 CrossRefLocationStyle=1
@@ -44,11 +46,14 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
-CurrentVariant=Rev1.1
+CurrentVariant=Rev1.2
 
 [Preferences]
 PrefsVaultGUID=
 PrefsRevisionGUID=
+
+[Release]
+ReleaseTarget=3
 
 [Document1]
 DocumentPath=BlockDiagram.SchDoc
@@ -392,7 +397,7 @@ DocumentUniqueId=
 
 [ProjectVariant1]
 UniqueID=3235677C-1459-4FDD-B8BF-0124B57A9A1B
-Description=Rev1.1
+Description=Rev1.2
 AllowFabrication=0
 ParameterCount=0
 VariationCount=146
@@ -565,336 +570,508 @@ DocumentPath=Outputs\REV1.1\NC Drill\H4_6-port_EtherCAT_Junction_Module.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.EXTREP
+DocumentPath=Outputs\REV1.2\NC Drill\H4_6-port_EtherCAT_Junction_Module.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.EXTREP
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.G1
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.G1
+DocumentPath=Outputs\REV1.2\Gerber\H4_6-port_EtherCAT_Junction_Module.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.G2
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.G1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.G2
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.G1
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.G3
+DocumentPath=Outputs\REV1.2\Gerber\H4_6-port_EtherCAT_Junction_Module.G1
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.G3
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.G2
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.G4
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.G2
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.G4
+DocumentPath=Outputs\REV1.2\Gerber\H4_6-port_EtherCAT_Junction_Module.G2
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GBL
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.G3
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GBL
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.G3
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GBO
+DocumentPath=Outputs\REV1.2\Gerber\H4_6-port_EtherCAT_Junction_Module.G3
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GBO
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.G4
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GBP
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.G4
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GBP
+DocumentPath=Outputs\REV1.2\Gerber\H4_6-port_EtherCAT_Junction_Module.G4
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GBS
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GBS
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GD1
+DocumentPath=Outputs\REV1.2\Gerber\H4_6-port_EtherCAT_Junction_Module.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GD1
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GKO
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GKO
+DocumentPath=Outputs\REV1.2\Gerber\H4_6-port_EtherCAT_Junction_Module.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM1
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GM1
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM2
+DocumentPath=Outputs\REV1.2\Gerber\H4_6-port_EtherCAT_Junction_Module.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GM2
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM7
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GM7
+DocumentPath=Outputs\REV1.2\Gerber\H4_6-port_EtherCAT_Junction_Module.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM8
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GM8
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM9
+DocumentPath=Outputs\REV1.2\Gerber\H4_6-port_EtherCAT_Junction_Module.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GM9
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM10
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GM10
+DocumentPath=Outputs\REV1.2\Gerber\H4_6-port_EtherCAT_Junction_Module.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM11
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GM11
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM12
+DocumentPath=Outputs\REV1.2\Gerber\H4_6-port_EtherCAT_Junction_Module.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GM12
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM13
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GM13
+DocumentPath=Outputs\REV1.2\Gerber\H4_6-port_EtherCAT_Junction_Module.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM15
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM7
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GM15
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GM7
 DItemRevisionGUID=
 
 [GeneratedDocument48]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM16
+DocumentPath=Outputs\REV1.2\Gerber\H4_6-port_EtherCAT_Junction_Module.GM7
 DItemRevisionGUID=
 
 [GeneratedDocument49]
-DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GM16
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM8
 DItemRevisionGUID=
 
 [GeneratedDocument50]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM18
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GM8
 DItemRevisionGUID=
 
 [GeneratedDocument51]
-DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GM18
+DocumentPath=Outputs\REV1.2\Gerber\H4_6-port_EtherCAT_Junction_Module.GM8
 DItemRevisionGUID=
 
 [GeneratedDocument52]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM19
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM9
 DItemRevisionGUID=
 
 [GeneratedDocument53]
-DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GM19
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GM9
 DItemRevisionGUID=
 
 [GeneratedDocument54]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GPB
+DocumentPath=Outputs\REV1.2\Gerber\H4_6-port_EtherCAT_Junction_Module.GM9
 DItemRevisionGUID=
 
 [GeneratedDocument55]
-DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GPB
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM10
 DItemRevisionGUID=
 
 [GeneratedDocument56]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GPT
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GM10
 DItemRevisionGUID=
 
 [GeneratedDocument57]
-DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GPT
+DocumentPath=Outputs\REV1.2\Gerber\H4_6-port_EtherCAT_Junction_Module.GM10
 DItemRevisionGUID=
 
 [GeneratedDocument58]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GTL
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM11
 DItemRevisionGUID=
 
 [GeneratedDocument59]
-DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GTL
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GM11
 DItemRevisionGUID=
 
 [GeneratedDocument60]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GTO
+DocumentPath=Outputs\REV1.2\Gerber\H4_6-port_EtherCAT_Junction_Module.GM11
 DItemRevisionGUID=
 
 [GeneratedDocument61]
-DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GTO
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM12
 DItemRevisionGUID=
 
 [GeneratedDocument62]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GTP
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GM12
 DItemRevisionGUID=
 
 [GeneratedDocument63]
-DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GTP
+DocumentPath=Outputs\REV1.2\Gerber\H4_6-port_EtherCAT_Junction_Module.GM12
 DItemRevisionGUID=
 
 [GeneratedDocument64]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GTS
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument65]
-DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GTS
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument66]
-DocumentPath=Outputs\REV1.0_05072023\NC Drill\H4_6-port_EtherCAT_Junction_Module.LDP
+DocumentPath=Outputs\REV1.2\Gerber\H4_6-port_EtherCAT_Junction_Module.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument67]
-DocumentPath=Outputs\REV1.1\NC Drill\H4_6-port_EtherCAT_Junction_Module.LDP
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument68]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.REP
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument69]
-DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.REP
+DocumentPath=Outputs\REV1.2\Gerber\H4_6-port_EtherCAT_Junction_Module.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument70]
-DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.RUL
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM16
 DItemRevisionGUID=
 
 [GeneratedDocument71]
-DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.RUL
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GM16
 DItemRevisionGUID=
 
 [GeneratedDocument72]
-DocumentPath=Outputs\REV1.0_05072023\NC Drill\H4_6-port_EtherCAT_Junction_Module.TXT
+DocumentPath=Outputs\REV1.2\Gerber\H4_6-port_EtherCAT_Junction_Module.GM16
 DItemRevisionGUID=
 
 [GeneratedDocument73]
-DocumentPath=Outputs\REV1.1\NC Drill\H4_6-port_EtherCAT_Junction_Module.TXT
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM18
 DItemRevisionGUID=
 
 [GeneratedDocument74]
-DocumentPath=Outputs\REV1.0_05072023\Pick Place\Pick Place for H4_6-port_EtherCAT_Junction_Module(Rev1.0).csv
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GM18
 DItemRevisionGUID=
 
 [GeneratedDocument75]
-DocumentPath=Outputs\REV1.0_05072023\Pick Place\Pick Place for H4_6-port_EtherCAT_Junction_Module(Rev1.0).txt
+DocumentPath=Outputs\REV1.2\Gerber\H4_6-port_EtherCAT_Junction_Module.GM18
 DItemRevisionGUID=
 
 [GeneratedDocument76]
-DocumentPath=Outputs\REV1.1\Pick Place\Pick Place for H4_6-port_EtherCAT_Junction_Module(Rev1.1).csv
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GM19
 DItemRevisionGUID=
 
 [GeneratedDocument77]
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GM19
+DItemRevisionGUID=
+
+[GeneratedDocument78]
+DocumentPath=Outputs\REV1.2\Gerber\H4_6-port_EtherCAT_Junction_Module.GM19
+DItemRevisionGUID=
+
+[GeneratedDocument79]
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=Outputs\REV1.2\Gerber\H4_6-port_EtherCAT_Junction_Module.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument82]
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument83]
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument84]
+DocumentPath=Outputs\REV1.2\Gerber\H4_6-port_EtherCAT_Junction_Module.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument85]
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument86]
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument87]
+DocumentPath=Outputs\REV1.2\Gerber\H4_6-port_EtherCAT_Junction_Module.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument88]
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument89]
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument90]
+DocumentPath=Outputs\REV1.2\Gerber\H4_6-port_EtherCAT_Junction_Module.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument91]
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument92]
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument93]
+DocumentPath=Outputs\REV1.2\Gerber\H4_6-port_EtherCAT_Junction_Module.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument94]
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument95]
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument96]
+DocumentPath=Outputs\REV1.2\Gerber\H4_6-port_EtherCAT_Junction_Module.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument97]
+DocumentPath=Outputs\REV1.0_05072023\NC Drill\H4_6-port_EtherCAT_Junction_Module.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument98]
+DocumentPath=Outputs\REV1.1\NC Drill\H4_6-port_EtherCAT_Junction_Module.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument99]
+DocumentPath=Outputs\REV1.2\NC Drill\H4_6-port_EtherCAT_Junction_Module.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument100]
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.REP
+DItemRevisionGUID=
+
+[GeneratedDocument101]
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.REP
+DItemRevisionGUID=
+
+[GeneratedDocument102]
+DocumentPath=Outputs\REV1.2\Gerber\H4_6-port_EtherCAT_Junction_Module.REP
+DItemRevisionGUID=
+
+[GeneratedDocument103]
+DocumentPath=Outputs\REV1.0_05072023\Gerber\H4_6-port_EtherCAT_Junction_Module.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument104]
+DocumentPath=Outputs\REV1.1\Gerber\H4_6-port_EtherCAT_Junction_Module.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument105]
+DocumentPath=Outputs\REV1.2\Gerber\H4_6-port_EtherCAT_Junction_Module.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument106]
+DocumentPath=Outputs\REV1.0_05072023\NC Drill\H4_6-port_EtherCAT_Junction_Module.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument107]
+DocumentPath=Outputs\REV1.1\NC Drill\H4_6-port_EtherCAT_Junction_Module.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument108]
+DocumentPath=Outputs\REV1.2\NC Drill\H4_6-port_EtherCAT_Junction_Module.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument109]
+DocumentPath=Outputs\REV1.0_05072023\Pick Place\Pick Place for H4_6-port_EtherCAT_Junction_Module(Rev1.0).csv
+DItemRevisionGUID=
+
+[GeneratedDocument110]
+DocumentPath=Outputs\REV1.0_05072023\Pick Place\Pick Place for H4_6-port_EtherCAT_Junction_Module(Rev1.0).txt
+DItemRevisionGUID=
+
+[GeneratedDocument111]
+DocumentPath=Outputs\REV1.1\Pick Place\Pick Place for H4_6-port_EtherCAT_Junction_Module(Rev1.1).csv
+DItemRevisionGUID=
+
+[GeneratedDocument112]
 DocumentPath=Outputs\REV1.1\Pick Place\Pick Place for H4_6-port_EtherCAT_Junction_Module(Rev1.1).txt
 DItemRevisionGUID=
 
+[GeneratedDocument113]
+DocumentPath=Outputs\REV1.1\Pick Place\Pick Place for H4_6-port_EtherCAT_Junction_Module(Rev1.2).csv
+DItemRevisionGUID=
+
+[GeneratedDocument114]
+DocumentPath=Outputs\REV1.2\Pick Place\Pick Place for H4_6-port_EtherCAT_Junction_Module(Rev1.2).csv
+DItemRevisionGUID=
+
+[GeneratedDocument115]
+DocumentPath=Outputs\REV1.1\Pick Place\Pick Place for H4_6-port_EtherCAT_Junction_Module(Rev1.2).txt
+DItemRevisionGUID=
+
+[GeneratedDocument116]
+DocumentPath=Outputs\REV1.2\Pick Place\Pick Place for H4_6-port_EtherCAT_Junction_Module(Rev1.2).txt
+DItemRevisionGUID=
+
 [Parameter1]
-Name=PCB_Name
-Value=H4_6port_Junction_Module
+Name=Cur_Revision
+Value=1.2
 
 [Parameter2]
-Name=Project_Author
-Value=Chandra U.
+Name=Project_Title
+Value=H4 6-port EthercAT Junction Module
 
 [Parameter3]
-Name=Project_Author_Checked
-Value=Alexis M.
+Name=Project_Rev_Date_3
+Value=2023-03-06
 
 [Parameter4]
-Name=Project_Date
-Value=04/07/2023
+Name=Project_Rev_Date_2
+Value=2023-09-15
 
 [Parameter5]
 Name=Project_Rev_Date
 Value=2023-07-01
 
 [Parameter6]
-Name=Project_Rev_Date_2
-Value=2023-09-15
+Name=Project_Revision_Description_3
+Value=Power vias under U1 and Silkscreen update
 
 [Parameter7]
-Name=Project_Revision
-Value=1.0
-
-[Parameter8]
-Name=Project_Revision_2
-Value=1.1
-
-[Parameter9]
-Name=Project_Revision_Description
-Value=Initial release
-
-[Parameter10]
 Name=Project_Revision_Description_2
 Value=Ethernet ESD Protections added
 
+[Parameter8]
+Name=Project_Revision_Description
+Value=Initial release
+
+[Parameter9]
+Name=Project_Revision_3
+Value=1.2
+
+[Parameter10]
+Name=Project_Revision_2
+Value=1.1
+
 [Parameter11]
-Name=Project_Title
-Value=H4 6-port EthercAT Junction Module
+Name=Project_Revision
+Value=1.0
+
+[Parameter12]
+Name=Project_Date
+Value=04/07/2023
+
+[Parameter13]
+Name=Project_Author_Checked
+Value=Alexis M.
+
+[Parameter14]
+Name=Project_Author
+Value=Chandra U.
+
+[Parameter15]
+Name=PCB_Name
+Value=H4_6port_Junction_Module
 
 [Configuration1]
 Name=Sources
@@ -905,6 +1082,38 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Configuration2]
+Name=Fabrication
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=1
+DocumentReferenceClass1=DocumentReference
+OutputJobFileName1=PCB_Fab.OutJob
+ContentTypeGUID=0C520D2A-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Fabrication
+
+[Configuration3]
+Name=Assembly Rev1.1
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=Rev1.1
+OutputJobsCount=0
+ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Assembly
+
+[Configuration4]
+Name=Assembly
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=0
+ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Assembly
 
 [Generic_SignalIntegrityPanelSetup]
 TerminationName0=No Termination
